@@ -1,21 +1,33 @@
 body {
-
+font-size: 100%;
+background: #;
+}
+div{
+background: #;
 }
 h1{
-
+font-size: 2em;
+color: #;
 }
 h2{
-
+font-size: 1.8em;
+color: #;
 }
 h3{
-
+font-size: 1.6em;
+color: #;
 }
 h4{
-
+font-size: 1.4em;
+color: #;
 }
 h5{
-
+font-size: 0.8m;
+color: #;
 }
-h6{
-
+p{
+font-size: 1em;
+}
+table {
+	 	
 }
