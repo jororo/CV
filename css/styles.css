@@ -93,12 +93,13 @@ a {
 }
 
 .Datos {
-    margin: 10px;
+    padding-right: 1%;
     text-align: right;
     display: inline-table;
 }
 
 .Datos2 {
+    padding-left: 1%;
     text-align: left;
     display: inline-table;
 }
@@ -142,7 +143,6 @@ a {
 footer {
     width: 95%;
     margin: 0 auto;
-    text-align: center;
 }
 
 td {
